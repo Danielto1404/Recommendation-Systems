@@ -4,7 +4,8 @@
 .LSOverride
 
 # ML dataset will be ignored
-data/*
+home-works/Music-WSDM/data/*
+
 
 # Icon must end with two \r
 Icon
