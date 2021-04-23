@@ -5,6 +5,7 @@
 
 # ML dataset will be ignored
 home-works/Music-WSDM/data/*
+*.csv
 
 
 # Icon must end with two \r
